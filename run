@@ -7,6 +7,7 @@ export PATH="$HUBOT_BASE/node_modules/.bin:$HUBOT_BASE/node_modules/hubot/node_m
 
 export HUBOT_NAME=scrotbot
 export HUBOT_LOG_LEVEL=1
+export HUBOT_PRIVILEGE_ADMINS=scott
 
 echo $PATH
 
